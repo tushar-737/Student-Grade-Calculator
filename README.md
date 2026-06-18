@@ -167,4 +167,3 @@ Through this project, I learned:
 ## Author
 Tushar Gupta
 
-Tushar Gupta
